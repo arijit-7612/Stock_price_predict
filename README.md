@@ -1,7 +1,7 @@
 Title:
 “💰 Stock Market Forecasting Using LSTM 💸”
 
-Intro Image (Optional):
+Intro Image :
 Include an image representing stock market forecasting or trends.
 
 Introduction:
