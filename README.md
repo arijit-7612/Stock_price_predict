@@ -12,3 +12,6 @@ The goal of this project is to utilize historical stock data to train an LSTM mo
 
 Dataset Description:
 The dataset used is publicly accessible and consists of historical stock prices across different companies. It includes essential stock details such as opening and closing prices, trading volume, and dates, which help the model in capturing relevant patterns for better accuracy.
+
+
+# SQL SOLUTIONS (https://chatgpt.com/share/68be9908-11c8-8001-a270-78a2ea0cc06b)
