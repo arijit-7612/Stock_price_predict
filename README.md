@@ -15,3 +15,4 @@ The dataset used is publicly accessible and consists of historical stock prices 
 
 
 # SQL SOLUTIONS (https://chatgpt.com/share/68be9908-11c8-8001-a270-78a2ea0cc06b)
+# Week 5 (https://chatgpt.com/share/68be9908-11c8-8001-a270-78a2ea0cc06b)
